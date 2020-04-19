@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Play>一个公网可以访问的mp3文件路径,比如我用的自己的腾讯云服务器上的某个文件</Play>
+  <Hangup/>
+</Response>
